@@ -258,3 +258,9 @@ body {
   text-align: center;
   margin-bottom: 30px;
 }
+
+.steps-content {
+  display:flex;
+  flex-direction : column;
+  gap : 15px;
+  }
